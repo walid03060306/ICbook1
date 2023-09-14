@@ -1,0 +1,6 @@
+# In _config.yml
+title: Machine Learning en Ingenieria Geotecnica
+author: Walid Andy Kana Hancco
+logo: AI.png
+execute:
+  execute_notebooks: force

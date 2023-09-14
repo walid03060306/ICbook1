@@ -1,0 +1,8 @@
+# In _toc.yml
+format: jb-book
+root: Intro
+chapters:
+- file: Resumen
+- file: Introduccion
+- file: MarcoT
+- file: Conclusiones
